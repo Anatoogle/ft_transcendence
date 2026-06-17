@@ -1,6 +1,6 @@
 # ft_transcendence
 
-This is a real-time multiplayer 3D web application built with Three.js for **ft_transcendence**, the final project at 42 Wolfsburg.
+This is a browser-based, real-time multiplayer 3D web application built with Three.js for **ft_transcendence**, the final project at 42 Wolfsburg.
 
 Users can join and enter a shared interactive world where they can see and interact with other players in real time. The system supports multiple connected clients — anyone can simply open the host address with the port in a web browser, and they will automatically join the same synchronized world.
 
