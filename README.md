@@ -24,14 +24,14 @@ https://github.com/user-attachments/assets/393f8491-fa53-40c0-833c-50abe548429a
 Small minigame integration for multi-client synchronization testing. The visuals are placeholders for event detection, and the design will likely change.
 
 ---
+
 Tic-Tac-Toe – Game Mechanics Test
 
-https://github.com/user-attachments/assets/345ead54-ea62-4459-afea-6dd8040646a6
+https://github.com/user-attachments/assets/645ad5e8-b4bb-487f-a893-4e7fc47873be
 
 ---
 
 Rock Paper Scissors – Game Mechanics Test
-
 
 https://github.com/user-attachments/assets/b89f9454-c69f-4e60-8d5b-98fe91682baa
 
