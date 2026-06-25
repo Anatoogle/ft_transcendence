@@ -27,7 +27,7 @@ Small minigame integration for multi-client synchronization testing. The visuals
 
 Tic-Tac-Toe – Game Mechanics Test
 
-https://github.com/user-attachments/assets/645ad5e8-b4bb-487f-a893-4e7fc47873be
+https://github.com/user-attachments/assets/87af05c4-c9d0-4bac-881e-9fc40b12ec1c
 
 ---
 
